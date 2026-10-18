@@ -1,0 +1,6 @@
+{
+  "name": "ভয়েস ইমোশন মাস্টার স্টুডিও - Voice Emotion Master Studio",
+  "description": "মানুষের কণ্ঠস্বর ও আবেগের পূর্ণাঙ্গ মাস্টার গাইড এবং উচ্চমানের টেক্সট-টু-ভয়েস অডিও স্টুডিও। Complete Voice Emotion Master Guide with 25 human emotions and expressive AI Text-to-Speech synthesis.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
